@@ -1,3 +1,8 @@
 This is the first text of this file.
 
+This is the second text of this file. After 1st commit.
+
 This is the last text of this file.
+
+
+
